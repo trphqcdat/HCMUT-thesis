@@ -1,0 +1,29 @@
+nrfpushbuttons\nrf24l01.o: ..\Core\Src\NRF24L01.c
+nrfpushbuttons\nrf24l01.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
+nrfpushbuttons\nrf24l01.o: ../Core/Inc/stm32f1xx_hal_conf.h
+nrfpushbuttons\nrf24l01.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h
+nrfpushbuttons\nrf24l01.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h
+nrfpushbuttons\nrf24l01.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h
+nrfpushbuttons\nrf24l01.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h
+nrfpushbuttons\nrf24l01.o: ../Drivers/CMSIS/Include/core_cm3.h
+nrfpushbuttons\nrf24l01.o: D:\Data\Program Data\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+nrfpushbuttons\nrf24l01.o: ../Drivers/CMSIS/Include/cmsis_version.h
+nrfpushbuttons\nrf24l01.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+nrfpushbuttons\nrf24l01.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+nrfpushbuttons\nrf24l01.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h
+nrfpushbuttons\nrf24l01.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
+nrfpushbuttons\nrf24l01.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
+nrfpushbuttons\nrf24l01.o: D:\Data\Program Data\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+nrfpushbuttons\nrf24l01.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h
+nrfpushbuttons\nrf24l01.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h
+nrfpushbuttons\nrf24l01.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h
+nrfpushbuttons\nrf24l01.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_exti.h
+nrfpushbuttons\nrf24l01.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h
+nrfpushbuttons\nrf24l01.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h
+nrfpushbuttons\nrf24l01.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h
+nrfpushbuttons\nrf24l01.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h
+nrfpushbuttons\nrf24l01.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h
+nrfpushbuttons\nrf24l01.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h
+nrfpushbuttons\nrf24l01.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_spi.h
+nrfpushbuttons\nrf24l01.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h
+nrfpushbuttons\nrf24l01.o: ..\Core\Src\NRF24L01.h

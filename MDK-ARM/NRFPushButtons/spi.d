@@ -1,0 +1,30 @@
+nrfpushbuttons\spi.o: ../Core/Src/spi.c
+nrfpushbuttons\spi.o: ../Core/Inc/spi.h
+nrfpushbuttons\spi.o: ../Core/Inc/main.h
+nrfpushbuttons\spi.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
+nrfpushbuttons\spi.o: ../Core/Inc/stm32f1xx_hal_conf.h
+nrfpushbuttons\spi.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h
+nrfpushbuttons\spi.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h
+nrfpushbuttons\spi.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h
+nrfpushbuttons\spi.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h
+nrfpushbuttons\spi.o: ../Drivers/CMSIS/Include/core_cm3.h
+nrfpushbuttons\spi.o: D:\Data\Program Data\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+nrfpushbuttons\spi.o: ../Drivers/CMSIS/Include/cmsis_version.h
+nrfpushbuttons\spi.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+nrfpushbuttons\spi.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+nrfpushbuttons\spi.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h
+nrfpushbuttons\spi.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
+nrfpushbuttons\spi.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
+nrfpushbuttons\spi.o: D:\Data\Program Data\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+nrfpushbuttons\spi.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h
+nrfpushbuttons\spi.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h
+nrfpushbuttons\spi.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h
+nrfpushbuttons\spi.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_exti.h
+nrfpushbuttons\spi.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h
+nrfpushbuttons\spi.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h
+nrfpushbuttons\spi.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h
+nrfpushbuttons\spi.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h
+nrfpushbuttons\spi.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h
+nrfpushbuttons\spi.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h
+nrfpushbuttons\spi.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_spi.h
+nrfpushbuttons\spi.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h
